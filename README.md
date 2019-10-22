@@ -7,7 +7,7 @@ Node.js > 10
 Installing
 
 ```bash
-npm install or sudo npm install
+sudo npm install
 ```
 
 Start server
