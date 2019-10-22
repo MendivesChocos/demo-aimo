@@ -1,0 +1,9 @@
+
+export const FETCH_USER_REQUEST = 'FETCH_USER_REQUEST';
+export const FETCH_PROFILE_REQUEST = 'FETCH_PROFILE_REQUEST';
+export const FETCH_USER_SUCESS = 'FETCH_USER_REQUEST';
+export const FETCH_USER_FAILURE = 'FETCH_USER_REQUEST';
+
+export const TOGGLE_FOLLOW = 'TOGGLE_FOLLOW';
+export const LIKE = 'LIKE';
+export const UNLIKE = 'UNLIKE';
